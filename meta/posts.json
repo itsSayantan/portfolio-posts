@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "timeLineItems": {
+    "2020": [
+      {
+        "id": 1,
+        "date": "25th Feb 2020",
+        "link": "the-first-post",
+        "text": "The first post"
+      }
+    ]
+  },
+  "githubPath": {
+    "the-first-post": "posts/the-first-post.md"
+  }
+}
