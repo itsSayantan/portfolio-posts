@@ -1,15 +1,19 @@
 {
   "version": "1.0.0",
-  "timeLineItems": {
-    "2020": [
-      {
-        "id": 1,
-        "date": "25th Feb 2020",
-        "link": "the-first-post",
-        "text": "The first post"
-      }
-    ]
-  },
+  "timeLineItems": [
+    {
+      "id": 1,
+      "header": "2020",
+      "items": [
+        {
+          "id": 1,
+          "date": "25th Feb 2020",
+          "link": "the-first-post",
+          "text": "The first post"
+        }
+      ]
+    }
+  ],
   "githubPath": {
     "the-first-post": "https://api.github.com/repos/itsSayantan/portfolio-posts/contents/posts/the-first-post.md"
   }
