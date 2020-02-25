@@ -11,6 +11,6 @@
     ]
   },
   "githubPath": {
-    "the-first-post": "posts/the-first-post.md"
+    "the-first-post": "https://api.github.com/repos/itsSayantan/portfolio-posts/contents/posts/the-first-post.md"
   }
 }
