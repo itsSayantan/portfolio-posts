@@ -1,6 +1,6 @@
 I created this portfolio of mine primarily to learn more about web development and also to create a habit of writing down whatever I learn.
 
-I think that the best way to start now is my writing the posts in a markdown file. This is because of two reasons:
+I think that the best way to start now is by writing the posts in a markdown file. This is because of two reasons:
 
 - This removes much of the complexity of creating the entire blog-like structure.
 - Updating the posts becomes easy, though this is not recommended.
